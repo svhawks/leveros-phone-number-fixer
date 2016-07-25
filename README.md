@@ -16,6 +16,7 @@ This takes the whole current directory, archives it and deploys it onto Lever, i
 ###### Invoke via CLI
 
 ```bash
-$ lever invoke lever://dev.lever/phoneService/suggest '"5054146201"'
+$ lever invoke lever://dev.lever/phoneService/suggest '"905054146201"'
 
-"Hello, world!"
+
+[{"code":"TR","formatted":"+90 505 414 6201","isValid":true,"success":true}]
