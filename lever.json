@@ -1,0 +1,5 @@
+{
+    "name": "phoneService",
+    "description": "A hello service.",
+    "jsEntry": "server.js"
+}

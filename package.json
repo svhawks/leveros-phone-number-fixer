@@ -1,0 +1,28 @@
+{
+  "name": "leveros-phone-number-fixer",
+  "version": "1.0.0",
+  "description": "Leveros based phone number fixer",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccali14/leveros-phone-number-fixer.git"
+  },
+  "keywords": [
+    "Leveros",
+    "phone",
+    "number",
+    "fixer"
+  ],
+  "author": "Çağatay Çalı",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccali14/leveros-phone-number-fixer/issues"
+  },
+  "homepage": "https://github.com/ccali14/leveros-phone-number-fixer#readme",
+  "dependencies": {
+    "phone-number-fixer": "^1.0.7"
+  }
+}
