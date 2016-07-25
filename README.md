@@ -1,4 +1,4 @@
-![Lever OS](doc/images/leveros-logo-full-white-bg-v0.2.png "Lever OS")
+![Lever OS](https://raw.githubusercontent.com/leveros/leveros/master/doc/images/leveros-logo-full-white-bg-v0.2.png "Lever OS")
 ======================================================================
 
 **Serverless + Microservices = ♥**
