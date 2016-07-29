@@ -1,6 +1,6 @@
 {
   "name": "leveros-phone-number-fixer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Leveros based phone number fixer",
   "main": "index.js",
   "scripts": {
